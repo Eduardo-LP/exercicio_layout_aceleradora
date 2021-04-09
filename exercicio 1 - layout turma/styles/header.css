@@ -1,0 +1,23 @@
+header{
+    background-color: white;
+   /* margin-top: auto;*/
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    margin-right: 100px;
+    font-size: 25px;
+}
+
+header img{
+    width: 200px;
+}
